@@ -21,7 +21,7 @@
     
     self.view.backgroundColor = [UIColor whiteColor];
     self.view.backgroundColor = [UIColor redColor];
-    self.title = @"测试";
+    self.title = @"刘转";
 }
 
 - (void)didReceiveMemoryWarning {
